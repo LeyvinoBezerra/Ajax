@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTBLUE>
+    <COURSE>
+        <TITLE id="1">Fundamentos de Java</TITLE>
+        <INSTRUCTOR>Carlos Tosin</INSTRUCTOR>
+        <TYPE>Regular</TYPE>
+    </COURSE>
+    <COURSE>
+        <TITLE id="5">PHP</TITLE>
+        <INSTRUCTOR>André Milani</INSTRUCTOR>
+        <TYPE>Regular</TYPE>
+    </COURSE>
+    <COURSE>
+        <TITLE id="17">PHP para Facebook</TITLE>
+        <INSTRUCTOR>André Milani</INSTRUCTOR>
+        <TYPE>Express</TYPE>
+    </COURSE>
+</SOFTBLUE>
